@@ -9,7 +9,7 @@ class post1 extends Component {
                     <img className="img-responsive1" src="https://www.desktopbackground.org/download/800x600/2011/11/06/292720_ronald-reagan-render-by-kernelpanicx-on-deviantart_900x640_h.png" alt="" />
                     <div className="overlay1">
                         <h2>Lời nói đầu</h2>
-                        <button className="info1" data-toggle="modal" data-target="#modal1">Đọc thêm</button>
+                        <button className="info1" data-toggle="modal" data-target="#modal1">Đọc thêm </button>
                     </div>
                 </div>
                 {/* modal */}
@@ -17,7 +17,7 @@ class post1 extends Component {
                     <div className="modal-dialog" role="document">
                         <div className="modal-content">
                             <div className="modal-header">
-                                <h5 className="modal-title " id="exampleModalLabel">Đôi lời về  </h5>
+                                <h5 className="modal-title " id="exampleModalLabel">Mở lời cùng những điều chưa hài lòng ... </h5>
                                 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                     <span aria-hidden="true">&times;</span>
                                 </button>
