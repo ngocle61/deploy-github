@@ -1,0 +1,50 @@
+.title{
+    border: 1px solid#eee;
+    padding: 15px ;
+    color: rgb(214, 211, 211);
+    font-size: 4rem;
+    border-radius: 12px;
+    font-family: 'Open Sans Condensed', sans-serif;
+    letter-spacing: 8px;
+    text-transform: uppercase;
+    user-select: none;
+}
+.text{
+    color: rgb(214, 211, 211);
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 2rem;
+    user-select: none;
+    letter-spacing: 1px;
+}
+.d-flex img{
+ width: 100%;
+}
+.row >div {
+    padding: 0!important;
+}
+
+@media (min-width: 992px){
+    .modal-dialog {
+        max-width: 800px!important;
+    }
+}
+@media (min-width: 576px){
+    .modal-dialog {
+        max-width: 600px;
+        margin: 1.75rem auto;
+    }    
+}
+
+.underline{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 0;
+    width: 100%;
+    border-top: 1px solid #eee;
+}
+.text-right {
+    width: 80%;
+    color: rgb(255, 255, 255,0.8);
+    font-size: 30px;
+    font-family: 'Dancing Script', cursive;
+}
