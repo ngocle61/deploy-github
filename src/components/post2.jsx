@@ -6,7 +6,8 @@ class post2 extends Component {
         return (
             <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
                 <div class="hovereffect2">
-                    <img class="img-responsive2" src="https://media.kenh9.tv/http/1200x1200/tinhhoa.net-rdR1Hm-nhung-dieu-chua-biet-ve-tong-thong-my-ronald-reagan.jpg" alt="" />
+                    <img class="img-responsive2" src="https://www.desktopbackground.org/download/800x600/2011/11/06/292591_reagan-wallpapers-archive-ronald-reagan-presidential-foundation_2560x1440_h.jpg
+" alt="" />
                     <div class="overlay2">
                         <h2>Phản biện các luận điểm của Karl Marx</h2>
                         <button class="info2" data-toggle="modal" data-target="#modal2">Đọc thêm</button>
