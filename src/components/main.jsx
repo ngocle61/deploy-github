@@ -16,7 +16,7 @@ class main extends Component {
         return (
             <div className="container d-flex flex-column align-items-center justify-content-center mt-5">
                 <div className="title text-center">the truth untold </div>
-                <div className="text text-center mt-3">"A nation that cannot control its border is not a nation"</div>
+                <div className="text text-center mt-3">"A nation that cannot control its border is not a nation</div>
                 <div className="text-right">RONALD REAGAN</div>
                 <div className="row mt-4">
                     <Post1 />

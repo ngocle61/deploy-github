@@ -25,8 +25,7 @@ class post5 extends Component {
                                 </button>
                             </div>
                             <div className="modal-body">
-                                Ngay từ những ngày đầu tiên bắt đầu vào việc học lập trình tôi đã mong muốn có thể tự tay tạo cho mình một website nhỏ
-                                để viết ra các quan điểm của bản thân về hiện thực xã hội hiện nay ở Việt Nam.
+                                
 
                              </div>
                             <div className="modal-footer">
