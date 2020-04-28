@@ -67,11 +67,11 @@ class post1 extends Component {
                                     Chúng ta sẽ không thắng được nếu không công nhận lại thực thể VNCH đã từng là một quốc gia có chủ quyền
                                     để hợp pháp hóa ở quốc tế vì thực sự Trung Hoa đã chiếm HS-TS của VNCH còn VNDCCH thì không có quyền pháp lí nào với hai quần đảo này sau Hiệp định Genève, 1954 tôi đã nói trên.
                                     Nhưng nếu phải công nhận điều đó thì không phải trò lố bịch khi gọi Miền Nam là "tay sai do mỹ dưng nên" "chính quyền bù nhìn" sẽ bị bại lộ sao ? Tệ hơn
-                                    cho nhà cầm quyền là phải việt lại cho đúng lịch sử về những thứ dối trá mà họ đã dạy chúng ta trên ghế nhà trường .
+                                    cho nhà cầm quyền là phải viết lại cho đúng lịch sử về những thứ dối trá mà họ đã dạy chúng ta trên ghế nhà trường .
                                 </p>
                                 <p>
                                     AN NAM ta là nước tuy nhỏ nhưng từ xưa đến nay chưa từng khuất phục . Mông-nguyên ba lần ôm hận về nước , Lý Thường Kiệt thắng lớn Như Nguyệt Giang ,
-                                    Ngô Quyền đại thắng quân Nam Hán , Nguyễn Huệ đại phá quân Thanh , .. tất cả là do chúng ta có những người thực sự yêu nước thương dân và biết cách
+                                    Ngô Quyền đại thắng quân Nam Hán , Nguyễn Huệ đại phá quân Thanh , .. tất cả là do chúng ta có những người đứng đầu thực sự yêu nước thương dân và biết cách
                                     cứng rắn
                                     với kẻ thù . Hiện thân của họ chính là VNCH .
                                     Họ chiến đấu và họ bảo vệ người dân của họ . Họ không để tàu cá người dân bị đâm thủng rồi chìm ở vùng biển của mình.
