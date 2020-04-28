@@ -17,7 +17,7 @@ class post3 extends Component {
                     <div className="modal-dialog" role="document">
                         <div className="modal-content">
                             <div className="modal-header">
-                                <h5 className="modal-title " id="exampleModalLabel">VIN và nền kinh tế đáng thương của Việt Nam</h5>
+                                <h5 className="modal-title " id="exampleModalLabel">VIN VÀ NỀN CÔNG NGHIỆP ĐÁNG THƯƠNG VIỆT NAM</h5>
                                 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                     <span aria-hidden="true">&times;</span>
                                 </button>
