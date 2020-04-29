@@ -59,7 +59,8 @@ class post1 extends Component {
                                     sử gia Bắc Việt . Điều này làm thế hệ sau có tư tưởng sai lệch về VNCH. 
                                     Sự thật là VNCH phải đánh ở hai mặt trận . Ở đất liền họ đánh với bộ đội Bắc Việt . Ở mặt trận trên biển họ chiến đấu để bảo vệ Hoàng Sa .
                                     Năm 1973 khi rút quân ,Mỹ đã đem theo về hết hầu như các chiến hạm, vũ khí và dạn dược . Điều này có nghĩa 
-                                    cuộc chiến của khối tư bản và khối XHCN chuyển thành thành VNCH và cả khối XHCN. VNCH trở thành quốc gia đơn độc đánh với nguyên khối 
+                                    cuộc chiến của khối tư bản và khối XHCN chuyển thành thành cuộc chiến của 
+                                     VNCH và cả khối XHCN. VNCH trở thành quốc gia đơn độc đánh với nguyên khối 
                                     XHCN . 
                                     Họ đã chiến đấu với Bắc Kinh bằng tất cả những gì còn lại 
                                     với một mục tiêu kiên định.Đó là nhổ hết các lá cờ cắm sai chủ quyền của Trung Hoa và khẳng định lại lãnh thổ của VNCH đối với
