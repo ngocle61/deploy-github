@@ -96,8 +96,8 @@ class post3 extends Component {
                                     Người TQ, người Hàn thành công vì họ làm ra cái ô tô giá rẻ,
                                     chất lượng cao dành cho người dân của mình; sau rồi xuất khẩu ra nc ngoài kiếm ngoại tệ về cho quốc gia.
                                     Còn người VN lại rất thành công vì dùng lòng yêu nước, tự hào dân tộc nhập nguyên con ô tô ngoại (gắn mác Việt)
-                                    bán với giá cắt cổ để lừa nhiều con gà vào chuồng móc tiền của nhau -chứ cái xe đắt như chó để lừa gà ở VN thôi,
-                                    xuất khẩu đi nc ngoài người ta cười cho vào mặt đấy. Đấy, cứ vậy mà sách xưa của bọn Pháp nó bảo tộc An Nam này
+                                    bán với giá cắt cổ để lừa nhiều con gà vào chuồng móc tiền của nhau - chứ cái xe đắt như thế 
+                                    xuất khẩu đi nước ngoài người ta cười cho vào mặt đấy. Đấy, cứ vậy mà sách xưa của bọn Pháp nó bảo tộc An Nam này
                                     chỉ giỏi khôn lỏi, làm ăn mánh mung, lừa gạt lẫn nhau thì lại tự ái rồi bảo tự nhục cơ.
                                 </p>
                                 <div className="modal-footer">
