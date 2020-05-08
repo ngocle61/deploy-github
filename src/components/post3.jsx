@@ -23,7 +23,7 @@ class post3 extends Component {
                                 </button>
                             </div>
                             <div className="modal-body">
-                                <img src="https://sc01.alicdn.com/kf/HTB1TeZjdrArBKNjSZFLq6A_dVXa8.jpg" alt="" />
+                                {/* <img src="https://sc01.alicdn.com/kf/HTB1TeZjdrArBKNjSZFLq6A_dVXa8.jpg" alt="" />
                                 <p>
                                     Đây là máy khâu con bướm của người Trung Hoa đã sản xuất ra cách đây khoảng 100 năm .
                                     Sản phẩm này nhìn nó đơn giản, giờ đây có lẽ đối với người Việt Nam nó chỉ là còn hoài niệm xa xăm.
@@ -99,7 +99,7 @@ class post3 extends Component {
                                     bán với giá cắt cổ để lừa nhiều con gà vào chuồng móc tiền của nhau - chứ cái xe đắt như thế 
                                     xuất khẩu đi nước ngoài người ta cười cho vào mặt đấy. Đấy, cứ vậy mà sách xưa của bọn Pháp nó bảo tộc An Nam này
                                     chỉ giỏi khôn lỏi, làm ăn mánh mung, lừa gạt lẫn nhau thì lại tự ái rồi bảo tự nhục cơ.
-                                </p>
+                                </p> */}
                                 <div className="modal-footer">
                                     <button type="button" class="btn btn-secondary" data-dismiss="modal">Đóng</button>
                                 </div>
