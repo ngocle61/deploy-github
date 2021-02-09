@@ -8,7 +8,7 @@ class post3 extends Component {
         <div class="hovereffect3">
           <img
             class="img-responsive3"
-            src="https://www.desktopbackground.org/download/800x600/2011/11/06/292591_reagan-wallpapers-archive-ronald-reagan-presidential-foundation_2560x1440_h.jpg"
+            src="https://cc.1cdn.vn/2019/11/09/media-cungcau-vn_vinfast-0846.jpg"
             alt=""
           />
           <div class="overlay3">
@@ -118,7 +118,7 @@ class post3 extends Component {
                                     Còn người VN lại rất thành công vì dùng lòng yêu nước, tự hào dân tộc nhập nguyên con ô tô ngoại (gắn mác Việt)
                                     bán với giá cắt cổ để lừa nhiều con gà vào chuồng móc tiền của nhau - chứ cái xe đắt như thế 
                                     xuất khẩu đi nước ngoài người ta cười cho vào mặt đấy. Đấy, cứ vậy mà sách xưa của bọn Pháp nó bảo tộc An Nam này
-                                    chỉ giỏi khôn lỏi, làm ăn mánh mung, lừa gạt lẫn nhau thì lại tự ái rồi bảo tự nhục cơ.
+                                    chỉ giỏi khôn lỏi, làm ăn mánh mung, lừa gạt lẫn nhau thì lại tự ái rồi bảo tự nhục ...
                                 </p>
                 <div className="modal-footer">
                   <button

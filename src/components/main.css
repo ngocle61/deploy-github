@@ -23,6 +23,10 @@
     padding: 0!important;
 }
 
+.main {
+    min-height: 95vh;
+}
+
 @media (min-width: 992px){
     .modal-dialog {
         max-width: 800px!important;
