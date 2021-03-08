@@ -1,25 +1,25 @@
 import React, { Component } from "react";
 import "./post1.css";
-class post4 extends Component {
+class post7 extends Component {
   render() {
     return (
       <div className="col-lg-3 col-md-4 col-sm-6 col-xs-12">
         <div className="hovereffect1">
           <img
             className="img-responsive1"
-            src="https://thumbs.dreamstime.com/b/digit-seven-number-black-color-digit-seven-number-black-color-maths-count-font-text-149596257.jpg"
+            src="https://bestwallpapers.in/wp-content/uploads/2018/04/cute-kids-kissing-monochrome-love-4k-wallpaper-800x600.jpg"
             alt=""
           />
           <div className="overlay1">
             <h2>7 , 2 , 10</h2>
-            <button className="info1" data-toggle="modal" data-target="#modal4">
+            <button className="info1" data-toggle="modal" data-target="#modal7">
               Đọc thêm{" "}
             </button>
           </div>
         </div>
         <div
           className="modal fade"
-          id="modal4"
+          id="modal7"
           tabindex="-1"
           role="dialog"
           aria-labelledby="exampleModalLabel"
@@ -42,7 +42,6 @@ class post4 extends Component {
                 <img
                   src="https://www.thesun.co.uk/wp-content/uploads/2020/10/6f4f589f4b86d3db4eb588875f51bb69.jpg"
                   alt=""
-                  className="image"
                 />
                 <p style={{ paddingTop: "30px" }}>
                   7 điểm, dĩ nhiên không được như 10 điểm, và trong 3 điểm
@@ -79,4 +78,4 @@ class post4 extends Component {
   }
 }
 
-export default post4;
+export default post7;

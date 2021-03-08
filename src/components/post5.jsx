@@ -30,7 +30,9 @@ class post5 extends Component {
           <div className="modal-dialog" role="document">
             <div className="modal-content">
               <div className="modal-header">
-                <h5 className="modal-title " id="exampleModalLabel"></h5>
+                <h4 className="modal-title " id="exampleModalLabel">
+                  Dòng chảy của đồng tiền và giá trị của tình yêu.
+                </h4>
                 <button
                   type="button"
                   class="close"
@@ -42,13 +44,11 @@ class post5 extends Component {
               </div>
               <div className="modal-body">
                 <img
-                  src="https://lh3.googleusercontent.com/proxy/QuOSKbukWuyc9EoByd8i4024Pau1KckkOyg5nWhJMmoaEI560auynSdwTTP7LOdkYZBwPD9J2Cbo4G9gRyKSAIiTme4w6_HI84ZFTZG1jm6st8OHsE0fpD5anawtRwRHL2itJufZCX5dINCn5DuBBnesv9fmZXhQJqfA6VYBMW8VLCXUzgOR9OBKzJlyk8ufTPR8_RlgBawsHC8-y6Do9KB4An3BrmGvnERnWQCqyztK"
+                  src="https://lh3.googleusercontent.com/proxy/AAdYKdgxADcZglJxuXdhiF5SoVsaXfy07zFUgLD2_za23pOY7ghUb2R0eoAf9G1mJk1sKKk1WcpyTnqj6xbkyu7-eQBipubFL9tWhWt4_ah5cRiWxzgAC1Evpfqv-dNgFS20q4Mj_WEBWTpiN8IWMwsDFFr8cBALMx9AAHGRSMEIqzKfWkvQvBBW83tHYAulxhed8CIDzZ2RevxWkpt9WwnCizlbth6NTkYpD7qs6wgg"
                   alt=""
+                  className="image"
                 />
                 <p style={{ paddingTop: "30px" }}>
-                  Dòng chảy của đồng tiền và giá trị của tình yêu.
-                </p>
-                <p>
                   Hầu như bạn hỏi bất kỳ ai, từ cô gái trẻ tuổi cho đến người
                   phụ nữ lớn tuổi là họ cần gì nhất ở một người con trai hay đàn
                   ông, câu trả lời bạn thường nhận được là "người yêu thương

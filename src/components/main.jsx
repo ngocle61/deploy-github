@@ -6,6 +6,7 @@ import Post3 from './post3';
 import Post4 from './post4';
 import Post5 from './post5';
 import Post6 from './post6';
+import Post7 from './post7';
 class main extends Component {
     render() {
         return (
@@ -20,6 +21,7 @@ class main extends Component {
                     <Post1 />
                     <Post3/>
                     <Post2 />
+                    <Post7 />
                 </div>
                 
                 <div className="text-right">Enjoy reading my posts</div>

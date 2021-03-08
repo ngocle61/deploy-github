@@ -46,6 +46,7 @@ class post6 extends Component {
                 <img
                   src="https://vcdn-giaitri.vnecdn.net/2020/09/10/cha-va-con-6363-1599731616.jpg"
                   alt=""
+                  className="image"
                 />
                 <p style={{ paddingTop: "30px" }}>
                   Ngày tết của dân tộc Việt Nam ta đã có từ rất lâu rồi . Từ hơn
@@ -76,15 +77,14 @@ class post6 extends Component {
                 </p>
                 <p>
                   Trong cuốn sách viết về Giao Chỉ của người Trung Hoa .Khổng tử
-                  có viết "ta ko biết tết là gì nghe đâu đó là lễ hội lớn của
-                  bọn người man chúng nhảy múa như điên uống rượu và ăn chơi vào
-                  ngày đó" . Cũng có sách viết "bọn người ở Giao quận thường tập
-                  trung lại thành từng phường hội nhảy múa hát ca , ăn uống chơi
-                  bời trong nhiều người để vui mừng 1 mùa cấy trồng mới và chúng
-                  nó ko chỉ có dân làm nông mà còn có người nhà của quan lang
-                  cũng tham gia. và chỉ có bọn man di mà người trên kẻ dưới cùng
-                  nhau nhảy múa như cuồng vậy . Bên ta ko có vua - quân điên đảo
-                  như thế " .
+                  có viết "ta ko biết tết là gì , nghe đâu đó là lễ hội lớn của
+                  bọn người man. Chúng nhảy múa như điên uống rượu và ăn chơi
+                  vào ngày đó" . Cũng có sách viết "bọn người ở Giao quận thường
+                  tập trung lại thành từng phường hội nhảy múa hát ca , ăn uống
+                  chơi bời để vui mừng 1 mùa cấy trồng mới và chúng nó ko chỉ có
+                  dân làm nông mà còn có người nhà của quan lang cũng tham gia
+                  và chỉ có bọn man di mà người trên kẻ dưới cùng nhau nhảy múa
+                  như cuồng vậy . Bên ta ko có vua - quân điên đảo như thế " .
                 </p>
                 <p>
                   Vì vậy nếu nhìn nhận lại và làm phép so sánh dân ta đã ăn tết
@@ -92,7 +92,6 @@ class post6 extends Component {
                   phong tục ở phương Bắc du nhập vào Việt Nam khi Tần Thủy Hoàng
                   bắt đầu công cuộc viễn chinh xâm lược . Một số nho giáo hay
                   những người làm sử quy chụp Tết Ta bắt nguồn từ bên Trung Hoa.
-                  . Tôi chửi chúng nó , chửi luôn cha bọn khốn đó.
                 </p>
                 <p>
                   Sự tương đồng được sinh ra bởi ảnh hưởng lẫn nhau giữa Tết Ta
