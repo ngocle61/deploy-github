@@ -20,7 +20,7 @@ class main extends Component {
                     <Post6/>
                     <Post1 />
                     <Post3/>
-                    <Post2 />
+                    {/* <Post2 /> */}
                     <Post7 />
                 </div>
                 

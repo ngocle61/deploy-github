@@ -44,7 +44,7 @@ class post5 extends Component {
               </div>
               <div className="modal-body">
                 <img
-                  src="https://lh3.googleusercontent.com/proxy/AAdYKdgxADcZglJxuXdhiF5SoVsaXfy07zFUgLD2_za23pOY7ghUb2R0eoAf9G1mJk1sKKk1WcpyTnqj6xbkyu7-eQBipubFL9tWhWt4_ah5cRiWxzgAC1Evpfqv-dNgFS20q4Mj_WEBWTpiN8IWMwsDFFr8cBALMx9AAHGRSMEIqzKfWkvQvBBW83tHYAulxhed8CIDzZ2RevxWkpt9WwnCizlbth6NTkYpD7qs6wgg"
+                  src="https://devdiscourse.blob.core.windows.net/devnews/17_07_2020_13_58_35_1127682.jpg"
                   alt=""
                   className="image"
                 />
