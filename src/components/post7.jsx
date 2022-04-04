@@ -50,11 +50,10 @@ class post7 extends Component {
                 </p>
                 <p>Mình nhận ra những điều này từ lâu nên rất cố gắng để cả thiện bản thân .Thấm thoát cũng 2 năm bước chân vào cái nghề này. Càng học thấy càng ngu.  Thế nên đêm nào cũng cố gắng ngồi với mấy quyến sách chuyên ngành vài ba chục phút. Khổ cái từ hồi chuyển nhà về ở với thằng bạn chí cốt thì lại có những cuộc gặp gỡ mới. Thằng bạn mình cứ đi kiếm đâu ra info của mấy em nữ giới đẹp xinh. Thế là mình add fr nàng. Nàng không đẹp nhưng lại có nét hiền hoà thu hút khó tả. Mình cũng tò mò lắm muốn xem cái nét khả ái kia ngoài đời ra thế nào . Thế mà ba lần gặp nhau mình chỉ thấy mỗi cặp mắt và hai cái tai. Hôm nay mạnh dạn rủ nàng đi ăn lẩu. Mất đâu đó khoảng 1 tiếng cho nàng suy nghĩ nhưng kết quả giống như mình dự đoán. Chỉ là để cho chắc chắn. Cũng khá vui nhưng thật bất lịch sự khi cứ cố gắng bắt chuyện trong khi nàng đã khéo léo từ chối 2 lần.</p>
                 <p>
-                    Thế là mình biết mình lại phải học từ cái cách giao tiếp cho đến cách nhắn tin với những 'nàng' sau này.
+                    Thế là mình biết mình cái cách giao tiếp cho đến cách nhắn tin với người khác giới cũng phải học.
                 </p>
                 <p>
                     Cuối tuần mình nhận được tin vui từ công việc nhưng hôm nay biết là những niềm vui đó sẽ không có bóng hồng nào ở bên để chia sẽ cùng mình . Dù gì vẫn phải tập trung vào bản thân trước. 
-                   
                 </p>
                 <p>
                 Bí mật cuộc đời là ở chỗ, nhờ nhìn ra tất cả những sự tiêu cực trong đời này, cảm giác tích cực xuất hiện trong lòng người ta mới vững vàng. 
