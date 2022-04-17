@@ -21,7 +21,7 @@ class main extends Component {
                     <Post1 />
                     <Post3/>
                     {/* <Post2 /> */}
-                    <Post7 />
+                    {/* <Post7 /> */}
                 </div>
                 
                 <div className="text-right">Enjoy reading my posts</div>
