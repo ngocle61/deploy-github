@@ -8,7 +8,7 @@ class post3 extends Component {
         <div class="hovereffect3">
           <img
             class="img-responsive3"
-            src="https://cc.1cdn.vn/2019/11/09/media-cungcau-vn_vinfast-0846.jpg"
+            src="https://drive.gianhangvn.com/image/vinfast-lux-a20-mau-xanh-1169818j24256.jpg"
             alt=""
           />
           <div class="overlay3">
